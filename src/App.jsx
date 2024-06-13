@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <h1>Learn About Redux Toolkit</h1>
+      <h1 className="text-3xl text-red-700 underline">
+        Learn About Redux Toolkit
+      </h1>
     </>
   );
 }
